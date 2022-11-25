@@ -1,8 +1,10 @@
-# 🛫How to start!
+# 💻pdrRobotik: Einstieg in die Softwareentwicklung!
 
-## Was brauchen wir?
+## 🛫Los geht's!
 
 Um programmieren zu können brauchen wir verschiedene Programme und Libarys. Über die Installation der Programme und Libarys müssen wir uns nicht kümmern. Diese wurden schon installiert und eingerichtet. Zu Beginn werden wir die **Arduino IDE** verwenden. Dort können wir das Programm schreiben und direkt kompilieren. 
+
+## 📖GitHub Repository erstellen
 
 1) Als erstes wollen wir ein neues Repository anlegen. Das ist praktisch ein neues Projekt. Um dies anzustellen verwenden wir **GitHub**. Damit können wir den geschriebenen Code zwischen verschiedenen Geräten synchronisieren und bearbeiten.
 
@@ -35,6 +37,8 @@ _(Kleiner Tipp für's nächste Mal: Wenn der Pfad schon richtig eingestellt ist 
 So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt können wir schon fast mit dem programmieren loslegen. Alles dazu im nächsten Verlauf.
 
 
+
+## 💾Code Datei erstellen
 
 1) Zunächst öffnen wir die **Arduino IDE** <img src="https://i.imgur.com/fuFUsjx.png" width="25"/>. Diese befindet sich schon für uns auf dem Desktop. Alternativ können wir auch über die Windows Suche das Programm öffen.
 
