@@ -13,7 +13,7 @@ Um programmieren zu können brauchen wir verschiedene Programme und Libarys. Üb
 
 4) Es öffnet sich eine Übersicht mit allen Repositorys die wir schon angelegt haben. Hier klicken wir auf **"Add"** und anschließend auf **_"Create new repository..."_**
 
-5) Es öffnet sich ein neues Fenster. Hier geben wir dem Projekt einen Namen. **_"WICHTIG: Die Namen schreiben wir immer klein!"_** Wenn wir wollen, können wir noch eine Beschreibung hinzufügen, was aber nicht nötig ist.
+5) Es öffnet sich ein neues Fenster. Hier geben wir dem Projekt einen Namen. **_WICHTIG: Die Namen schreiben wir immer klein!_** Wenn wir wollen, können wir noch eine Beschreibung hinzufügen, was aber nicht nötig ist.
 <img src="https://i.imgur.com/337z80g.png" width=""/>
 
 6) Der nächste Schritt ist ebenfalls Wichtig. Wir müssen nun einstellen, wo wir die Datei speichern wollen. Dazu klicken wir auf **_"Choose..."_**. Es öffnet sich ein Fenster. Hier müssen wir zuerst auf der linken Seite auf **_"Dokumente"_**, und dann auf den Ordner **_"GitHub"_** klicken. Mit **_"Ornder auswählen"_** bestätigen wir unsere Auswahl.
