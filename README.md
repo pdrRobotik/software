@@ -25,10 +25,10 @@ _(Kleiner Tipp für's nächste Mal: Wenn der Pfad schon richtig eingestellt ist 
 7) Nachdem wir den Pfad eingestellt haben, können wir mit **_"Create repository"_** das Projekt erstellen. Die restlichen Optionen müssen wir nicht beachten.
 <img src="https://i.imgur.com/WH9efnf.png" width=""/>
 
-8) Das eben erstellte Projekt finden jetzt unter **Other**. Mit einem Klick auf den Namen werden wir in das Projekt reingeworfen.
+8) Das eben erstellte Projekt finden wir jetzt unter **Other**. Mit einem Klick auf den Namen werden wir in das Projekt reingeworfen.
 <img src="https://i.imgur.com/6MEily0.png" width=""/>
 
-9) Jetzt müssen wir nur noch das Projekt veröffentlichen! Dazu klicken wir entweder, wie oben markiert auf **_"Publish repository"_**, oder auf den gleichnamigen blauen Knopf auf der rechten Seite.
+9) Jetzt müssen wir nur noch das Projekt veröffentlichen! Dazu klicken wir entweder, wie oben markiert, auf **_"Publish repository"_**, oder auf den gleichnamigen blauen Knopf auf der rechten Seite.
 <img src="https://i.imgur.com/XomxG0s.png" width=""/>
 
 10) Es öffnet sich ein weiteres Fenster bei dem wir, ohne etwas zu verändern, auf **_"Publish repository"_** klicken.
@@ -36,7 +36,7 @@ _(Kleiner Tipp für's nächste Mal: Wenn der Pfad schon richtig eingestellt ist 
 
 So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt können wir schon fast mit dem programmieren loslegen. Alles dazu im nächsten Verlauf.
 
-
+# WIP Zone ab hier! Der weitere Verlauf ist unvollständig und beinhaltet Fehlinformationen!
 
 ## 💾Code Datei erstellen
 
@@ -49,5 +49,4 @@ So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt 
 
 ## ©️Einführung in Aurdino C++
 
-Um unsere Hardware steuern zu können, brauchen wir
-https://i.imgur.com/fuFUsjx.png
+Um unsere Hardware steuern zu können, brauchen wir....
