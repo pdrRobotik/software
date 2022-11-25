@@ -26,13 +26,13 @@ _(Kleiner Tipp für's nächste Mal: Wenn der Pfad schon richtig eingestellt ist 
 8) Das eben erstellte Projekt finden jetzt unter **Other**. Mit einem Klick auf den Namen werden wir in das Projekt reingeworfen.
 <img src="https://i.imgur.com/6MEily0.png" width=""/>
 
-9) Jetzt müssen wir nur noch das Projekt veröffentlichen! Dazu klicken wir entweder wie markiert oben auf **_"Publish repository"_**, oder auf den gleichnamigen blauen Knopf auf der rechten Seite.
+9) Jetzt müssen wir nur noch das Projekt veröffentlichen! Dazu klicken wir entweder, wie oben markiert auf **_"Publish repository"_**, oder auf den gleichnamigen blauen Knopf auf der rechten Seite.
 <img src="https://i.imgur.com/XomxG0s.png" width=""/>
 
-10) Es öffnet sich ein weiteres Fenster bei dem wir ohne etwas zu verändern auf **_"Publish repository"_** klicken.
+10) Es öffnet sich ein weiteres Fenster bei dem wir, ohne etwas zu verändern, auf **_"Publish repository"_** klicken.
 <img src="https://i.imgur.com/d6M84Ei.png" width=""/>
 
-So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt können schon fast mit dem programmieren loslegen. Alles dazu im nächsten Verlauf.
+So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt können wir schon fast mit dem programmieren loslegen. Alles dazu im nächsten Verlauf.
 
 
 
