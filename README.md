@@ -36,7 +36,7 @@ _(Kleiner Tipp für's nächste Mal: Wenn der Pfad schon richtig eingestellt ist 
 
 So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt können wir schon fast mit dem programmieren loslegen. Alles dazu im nächsten Verlauf. GitHub sollten wir während des programmieren im Hintergrund geöffnet lassen.
 
-# WIP Zone ab hier! Der weitere Verlauf ist unvollständig und beinhaltet Fehlinformationen!
+
 
 ## 💾Code Datei erstellen und auf GitHub speichern
 
@@ -50,7 +50,7 @@ So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt 
 4) Es öffnet sich ein kleines Fenster, wo wir der Datei einen Namen geben, und einen Speicherort auswählen müssen. Als erstes wählen wir wieder links **_"Dokumente"_**, und öffnen dann unseren **_"GitHub"_** Ordner. Dort müssen nach einem Ordner suchen, der den gleichen Namen hat wie das Projekt beim erstellen des GitHub Repositorys. Nachdem wir den Ordner gefunden haben öffnen wir diesen ebenfalls. Nun geben wir der Datei unten bei **_"Dateiname"_** den gleichen Namen wie der Ordner den wir als letztes geöffnet haben _(also den Projektnamen)_. **Auch hier müssen wir beachten das der Name kleingeschrieben ist!** Zum Schluss bestätigen wir alles mit **_"Speichern"_**.
 <img src="https://i.imgur.com/pnNBM4I.png" width=""/>
 
-5) Nachdem die IDE kurz neulädt schließen wir diese über das **_"X"_** oben rechts in der Ecke. Wir navigieren jetzt zur der Datei die wir grade erstellt haben. Der Pfad zur Datei sollte etwa so aussehen.
+5) Nachdem die **IDE** <img src="https://i.imgur.com/fuFUsjx.png" width="25"/> kurz neulädt schließen wir diese über das **_"X"_** oben rechts in der Ecke. Wir navigieren jetzt zur der Datei die wir grade erstellt haben. Der Pfad zur Datei sollte etwa so aussehen.
 <img src="https://i.imgur.com/fRJwgKX.png" width=""/>
 
 6) Nun ziehen wir die Datei nach oben in den ersten Ordner, der unseren Projektnamen trägt. Zu Demonstration ist er hier **_"repository-name"_**.
@@ -60,9 +60,36 @@ So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt 
 <img src="https://i.imgur.com/7ZRCwAP.png" width=""/>
 
 8) Hier müssen wir jetzt den markierten Ordner löschen. Er trägt ebenfalls den Namen unseres Projekts.
+<img src="https://i.imgur.com/n3InPwp.png" width=""/>
+
+9) Nun können wir mit einem Doppelklick unsere Code-Datei öffnen.
+<img src="https://i.imgur.com/aPAtrOt.png" width=""/>
+
+10) Es öffnet sich wieder die **Arduino IDE** <img src="https://i.imgur.com/fuFUsjx.png" width="25"/>. Hier sollten nun an den markierten Stellen unser Projektname stehen.
+<img src="https://i.imgur.com/p4qcjh9.png" width=""/>
+
+11) Als letzten Schritt öffnen wir **GitHub Desktop** <img src="https://miro.medium.com/max/600/1*p6exlg2Jrl3pimjPy7R-sA.png" width="25"/>. Hier sollte das nun ungefähr so aussehen.
+<img src="https://i.imgur.com/F55wVr5.png" width=""/>
+
+12) Wir überprüfen ob hier (pinke Markierung) unser Projektname steht. Falls nicht, können wir mit einem drücken auf den dort stehenden Namen unser Projekt auswählen. Danach drücken wir auf **_"Fetch origin"_**. Dies bewirkt, dass alle Änderungen an der Datei abgerufen werden.
+<img src="https://i.imgur.com/F55wVr5.png" width=""/>
+
+13) Zum Schluss bereiten wir das Projekt, mit einem Klick auf **_"Commit to main"_**, zum speichern auf unserem **GitHub** vor.
+<img src="https://i.imgur.com/qQZHRH2.png" width=""/>
+
+14) Schließlich können wir die Änderungen entgültig hochladen. Dazu klicken wir entweder, wie oben markiert, auf **_"Push origin"_**, oder auf den gleichnamigen blauen Knopf auf der rechten Seite.
+<img src="https://i.imgur.com/swGdnJZ.png" width=""/>
+
+15) Fertig! Nach dem Hochladen sollte das Programm wieder so aussehen. Nun können wir endlich mit dem Programmieren beginnen.
+<img src="https://i.imgur.com/ymSfzoF.png" width=""/>
+
+# ⚠️WIP Zone ab hier! Der weitere Verlauf ist unvollständig und beinhaltet Fehlinformationen!
 
 
 ## ©️Einführung in Aurdino C++
+
+
+
 
 Um unsere Hardware steuern zu können, brauchen wir....
 
