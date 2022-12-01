@@ -1,10 +1,16 @@
-# 💻pdrRobotik: Einstieg in die Softwareentwicklung!
+# 💻 pdrRobotik: Einstieg in die Softwareentwicklung!
 
-## 🛫Los geht's!
+### Inhalt
+- [🛫 Los geht's!](#-los-gehts)
+- [📖 GitHub Repository erstellen](#-github-repository-erstellen)
+- [💾 Code Datei erstellen und auf GitHub speichern](#-github-repository-erstellen)
+- [©️ Einführung in Arduino C++](#-einführung-in-arduino-c)
+
+## 🛫 Los geht's!
 
 Um programmieren zu können brauchen wir verschiedene Programme und Libarys. Über die Installation der Programme und Libarys müssen wir uns nicht kümmern. Diese wurden schon installiert und eingerichtet. Zu Beginn werden wir die **Arduino IDE** verwenden. Dort können wir das Programm schreiben und direkt kompilieren. 
 
-## 📖GitHub Repository erstellen
+## 📖 GitHub Repository erstellen
 
 1) Als erstes wollen wir ein neues Repository anlegen. Das ist praktisch ein neues Projekt. Um dies anzustellen verwenden wir **GitHub**. Damit können wir den geschriebenen Code zwischen verschiedenen Geräten synchronisieren und bearbeiten.
 
@@ -38,7 +44,7 @@ So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt 
 
 
 
-## 💾Code Datei erstellen und auf GitHub speichern
+## 💾 Code Datei erstellen und auf GitHub speichern
 
 1) Zunächst öffnen wir die **Arduino IDE** <img src="https://i.imgur.com/fuFUsjx.png" width="25"/>. Diese befindet sich schon für uns auf dem Desktop. Alternativ können wir auch über die Windows Suche das Programm öffen.
 
@@ -83,10 +89,10 @@ So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt 
 15) Fertig! Nach dem Hochladen sollte das Programm wieder so aussehen. Nun können wir endlich mit dem Programmieren beginnen.
 <img src="https://i.imgur.com/ymSfzoF.png" width=""/>
 
-# ⚠️WIP Zone ab hier! Der weitere Verlauf ist unvollständig und beinhaltet Fehlinformationen!
+# ⚠️ WIP Zone ab hier! Der weitere Verlauf ist unvollständig und beinhaltet Fehlinformationen!
 
 
-## ©️Einführung in Aurdino C++
+## ©️ Einführung in Arduino C++
 
 
 
