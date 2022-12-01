@@ -99,4 +99,4 @@ So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt 
 
 Um unsere Hardware steuern zu können, brauchen wir....
 
-<sup> Created with ❤️ by @Matewoo </sup>
+<sup> Created with ❤️ by [@Matewoo](https://github.com/Matewoo) </sup>
