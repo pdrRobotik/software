@@ -25,7 +25,7 @@ _(Kleiner Tipp für's nächste Mal: Wenn der Pfad schon richtig eingestellt ist 
 7) Nachdem wir den Pfad eingestellt haben, können wir mit **_"Create repository"_** das Projekt erstellen. Die restlichen Optionen müssen wir nicht beachten.
 <img src="https://i.imgur.com/WH9efnf.png" width=""/>
 
-8) Das eben erstellte Projekt finden wir jetzt unter **Other**. Mit einem Klick auf den Namen werden wir in das Projekt reingeworfen.
+8) Das eben erstellte Projekt finden wir jetzt unter **"Other"**. Mit einem Klick auf den Namen werden wir in das Projekt reingeworfen.
 <img src="https://i.imgur.com/6MEily0.png" width=""/>
 
 9) Jetzt müssen wir nur noch das Projekt veröffentlichen! Dazu klicken wir entweder, wie oben markiert, auf **_"Publish repository"_**, oder auf den gleichnamigen blauen Knopf auf der rechten Seite.
@@ -34,19 +34,36 @@ _(Kleiner Tipp für's nächste Mal: Wenn der Pfad schon richtig eingestellt ist 
 10) Es öffnet sich ein weiteres Fenster bei dem wir, ohne etwas zu verändern, auf **_"Publish repository"_** klicken.
 <img src="https://i.imgur.com/d6M84Ei.png" width=""/>
 
-So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt können wir schon fast mit dem programmieren loslegen. Alles dazu im nächsten Verlauf.
+So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt können wir schon fast mit dem programmieren loslegen. Alles dazu im nächsten Verlauf. GitHub sollten wir während des programmieren im Hintergrund geöffnet lassen.
 
 # WIP Zone ab hier! Der weitere Verlauf ist unvollständig und beinhaltet Fehlinformationen!
 
-## 💾Code Datei erstellen
+## 💾Code Datei erstellen und auf GitHub speichern
 
 1) Zunächst öffnen wir die **Arduino IDE** <img src="https://i.imgur.com/fuFUsjx.png" width="25"/>. Diese befindet sich schon für uns auf dem Desktop. Alternativ können wir auch über die Windows Suche das Programm öffen.
 
 2) Das Programm schmeißt uns direkt in eine neue Datei. Aussehen tut das dann ca. so:
 <img src="https://i.imgur.com/U5cVgm8.png" width=""/>
 
-3) Bevor wir aber loslegen können, wollen wir die Datei erstmal ordentlich speichern.
+3) Bevor wir aber loslegen können, wollen wir die Datei erstmal ordentlich speichern. Dazu klicken wir in der IDE oben links auf **_"File"_** und dann auf **_"Save As..."_**. _(Kleiner Tip: Wir können hier auch die Tastenkombination **STRG+S** nutzen)_
+
+4) Es öffnet sich ein kleines Fenster, wo wir der Datei einen Namen geben, und einen Speicherort auswählen müssen. Als erstes wählen wir wieder links **_"Dokumente"_**, und öffnen dann unseren **_"GitHub"_** Ordner. Dort müssen nach einem Ordner suchen, der den gleichen Namen hat wie das Projekt beim erstellen des GitHub Repositorys. Nachdem wir den Ordner gefunden haben öffnen wir diesen ebenfalls. Nun geben wir der Datei unten bei **_"Dateiname"_** den gleichen Namen wie der Ordner den wir als letztes geöffnet haben _(also den Projektnamen)_. **Auch hier müssen wir beachten das der Name kleingeschrieben ist!** Zum Schluss bestätigen wir alles mit **_"Speichern"_**.
+<img src="https://i.imgur.com/pnNBM4I.png" width=""/>
+
+5) Nachdem die IDE kurz neulädt schließen wir diese über das **_"X"_** oben rechts in der Ecke. Wir navigieren jetzt zur der Datei die wir grade erstellt haben. Der Pfad zur Datei sollte etwa so aussehen.
+<img src="https://i.imgur.com/fRJwgKX.png" width=""/>
+
+6) Nun ziehen wir die Datei nach oben in den ersten Ordner, der unseren Projektnamen trägt. Zu Demonstration ist er hier **_"repository-name"_**.
+<img src="https://i.imgur.com/2i2DOi8.png" width=""/>
+
+7) Anschließend gehen wir in den Ordner, in den wir eben die Datei verschoben haben. Das können wir machen indem wir oben auf den ersten Ordner mit unserem Projektnamen drücken.
+<img src="https://i.imgur.com/7ZRCwAP.png" width=""/>
+
+8) Hier müssen wir jetzt den markierten Ordner löschen. Er trägt ebenfalls den Namen unseres Projekts.
+
 
 ## ©️Einführung in Aurdino C++
 
 Um unsere Hardware steuern zu können, brauchen wir....
+
+<sup> Created with ❤️ by @Matewoo </sup>
