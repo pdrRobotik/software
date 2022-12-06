@@ -1,10 +1,10 @@
-# 💻 pdrRobotik: Einstieg in die Softwareentwicklung!
+# 🤖 pdrRobotik: Einstieg in die Softwareentwicklung!
 
 ### Inhalt
 - [🛫 Los geht's!](#-los-gehts)
 - [📖 GitHub Repository erstellen](#-github-repository-erstellen)
 - [💾 Code Datei erstellen und auf GitHub speichern](#-code-datei-erstellen-und-auf-github-speichern)
-- [©️ Einführung in Arduino C++](#%EF%B8%8F-einführung-in-arduino-c)
+- [💻 Einführung in Arduino C++](#-einführung-in-arduino-c)
 
 ## 🛫 Los geht's!
 
@@ -92,7 +92,7 @@ So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt 
 # ⚠️ WIP Zone ab hier! Der weitere Verlauf ist unvollständig und beinhaltet Fehlinformationen!
 
 
-## ©️ Einführung in Arduino C++
+## 💻 Einführung in Arduino C++
 
 
 
