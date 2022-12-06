@@ -3,7 +3,7 @@
 ### Inhalt
 - [🛫 Los geht's!](#-los-gehts)
 - [📖 GitHub Repository erstellen](#-github-repository-erstellen)
-- [💾 Code Datei erstellen und auf GitHub speichern](#-github-repository-erstellen)
+- [💾 Code Datei erstellen und auf GitHub speichern](#-code-datei-erstellen-und-auf-github-speichern)
 - [©️ Einführung in Arduino C++](#%EF%B8%8F-einführung-in-arduino-c)
 
 ## 🛫 Los geht's!
