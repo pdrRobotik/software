@@ -4,11 +4,11 @@
 - [🛫 Los geht's!](#-los-gehts)
 - [📖 GitHub Repository erstellen](#-github-repository-erstellen)
 - [💾 Code Datei erstellen und auf GitHub speichern](#-code-datei-erstellen-und-auf-github-speichern)
-- [💻 Einführung in Arduino C++](#-programmieren-in-arduino-c)
+- [💻 Programmieren in Arduino C++](#-programmieren-in-arduino-c)
 
 ## 🛫 Los geht's!
 
-Um programmieren zu können brauchen wir verschiedene Programme und Libarys. Über die Installation der Programme und Libarys müssen wir uns nicht kümmern. Diese wurden schon installiert und eingerichtet. Zu Beginn werden wir die **Arduino IDE** verwenden. Dort können wir das Programm schreiben und direkt kompilieren. 
+Wir wollen nun unsere gebaute Hardware mit ein bisschen Code zum Laufen bringen. Zuerst sollten wir einmal ein letztes Mal unsere Kabel überprüfen. Wir müssen bedenken, dass es mehr Aufwand ist, die Verkabelung nachträglich zu ändern. Sind wir schließlich zufrieden, sollten wir uns einmal vor Augen führen, was unser Programm tun soll, welchen Motoren oder Schalter benötigt werden, und wie wir das Ansteuern der jeweiligen Komponenten verwirklichen. Erst dann sollten wir mit dem Programmieren beginnen. Um programmieren zu können brauchen wir verschiedene Programme und Libarys. Über die Installation der Programme und Libarys müssen wir uns aber nicht kümmern. Diese wurden schon installiert und eingerichtet. Zu Beginn werden wir die **Arduino IDE** <img src="https://i.imgur.com/fuFUsjx.png" width="25"/> verwenden. Dort können wir das Programm schreiben und direkt kompilieren. In Zukunft können wir bei persönlichem Bedarf auch auf **Visual Studio Code** <img src="https://i.imgur.com/OttW3og.png" width="25"/> wechseln.
 
 ## 📖 GitHub Repository erstellen
 
