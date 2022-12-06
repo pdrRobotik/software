@@ -1,14 +1,20 @@
 # 🤖 pdrRobotik: Einstieg in die Softwareentwicklung!
 
+
+
 ### Inhalt
 - [🛫 Los geht's!](#-los-gehts)
 - [📖 GitHub Repository erstellen](#-github-repository-erstellen)
 - [💾 Code Datei erstellen und auf GitHub speichern](#-code-datei-erstellen-und-auf-github-speichern)
 - [💻 Programmieren in Arduino C++](#-programmieren-in-arduino-c)
 
+
+
 ## 🛫 Los geht's!
 
 Wir wollen nun unsere gebaute Hardware mit ein bisschen Code zum Laufen bringen. Zuerst sollten wir einmal ein letztes Mal unsere Kabel überprüfen. Wir müssen bedenken, dass es mehr Aufwand ist, die Verkabelung nachträglich zu ändern. Sind wir schließlich zufrieden, sollten wir uns einmal vor Augen führen, was unser Programm tun soll, welchen Motoren oder Schalter benötigt werden, und wie wir das Ansteuern der jeweiligen Komponenten verwirklichen. Erst dann sollten wir mit dem Programmieren beginnen. Um programmieren zu können brauchen wir verschiedene Programme und Libarys. Über die Installation der Programme und Libarys müssen wir uns aber nicht kümmern. Diese wurden schon installiert und eingerichtet. Zu Beginn werden wir die **Arduino IDE** <img src="https://i.imgur.com/fuFUsjx.png" width="25"/> verwenden. Dort können wir das Programm schreiben und direkt kompilieren. In Zukunft können wir bei persönlichem Bedarf auch auf **Visual Studio Code** <img src="https://i.imgur.com/OttW3og.png" width="25"/> wechseln.
+
+
 
 ## 📖 GitHub Repository erstellen
 
@@ -34,7 +40,7 @@ _(Kleiner Tipp für's nächste Mal: Wenn der Pfad schon richtig eingestellt ist 
 8) Das eben erstellte Projekt finden wir jetzt unter **"Other"**. Mit einem Klick auf den Namen werden wir in das Projekt reingeworfen.
 <img src="https://i.imgur.com/6MEily0.png" width=""/>
 
-9) Jetzt müssen wir nur noch das Projekt veröffentlichen! Dazu klicken wir entweder, wie oben markiert, auf **_"Publish repository"_**, oder auf den gleichnamigen blauen Knopf auf der rechten Seite.
+9) Jetzt müssen wir nur noch das Projekt veröffentlichen! Dazu klicken wir entweder, wie oben markiert, auf **_"Publish repository"_**, oder auf den gleichnamigen, blauen Knopf auf der rechten Seite.
 <img src="https://i.imgur.com/XomxG0s.png" width=""/>
 
 10) Es öffnet sich ein weiteres Fenster bei dem wir, ohne etwas zu verändern, auf **_"Publish repository"_** klicken.
@@ -83,20 +89,35 @@ So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt 
 13) Zum Schluss bereiten wir das Projekt, mit einem Klick auf **_"Commit to main"_**, zum speichern auf unserem **GitHub** vor.
 <img src="https://i.imgur.com/qQZHRH2.png" width=""/>
 
-14) Schließlich können wir die Änderungen entgültig hochladen. Dazu klicken wir entweder, wie oben markiert, auf **_"Push origin"_**, oder auf den gleichnamigen blauen Knopf auf der rechten Seite.
+14) Schließlich können wir die Änderungen entgültig hochladen. Dazu klicken wir entweder, wie oben markiert, auf **_"Push origin"_**, oder auf den gleichnamigen, blauen Knopf auf der rechten Seite.
 <img src="https://i.imgur.com/swGdnJZ.png" width=""/>
 
 15) Fertig! Nach dem Hochladen sollte das Programm wieder so aussehen. Nun können wir endlich mit dem Programmieren beginnen.
 <img src="https://i.imgur.com/ymSfzoF.png" width=""/>
 
-# ⚠️ WIP Zone ab hier! Der weitere Verlauf ist unvollständig und beinhaltet Fehlinformationen!
 
 
 ## 💻 Programmieren in Arduino C++
 
+Um unsere Hardware steuern zu können, brauchen wir logischerweise die entsprechende Software. Wenn wir die oberen Schritte schon abgearbeitet haben, können wir damit auch endlich loslegen. Die Grundlegenden Funktionen lernen wir hier.
 
+1) Wir beginnen mit dem Öffnen von **GitHub Desktop** <img src="https://miro.medium.com/max/600/1*p6exlg2Jrl3pimjPy7R-sA.png" width="25"/>. Dort wählen wir über den Pfeil oben links das Projekt aus, an dem wir nun arbeiten möchten.  
+  
+(**_WICHTIG: Folgende zwei Schritte wiederholen wir zu Beginn von jedem Start des Arbeitens an einem Projekt._**)  
 
+2) Haben wir das getan, drücken wir oben auf **_"Fetch origin"_**.
+<img src="https://i.imgur.com/K6I44bX.png" width=""/>
 
-Um unsere Hardware steuern zu können, brauchen wir....
+3) Wir achten nun, ob es Änderungen am Projekt gibt. Hier zwei Beispiele wie eine Änderung, und wie keine Änderung von GitHub angezeigt wird. <img src="https://i.imgur.com/v3eeAji.png" width=""/>  
+_(↑ Eine Änderung ist vorhanden.)_ <img src="https://i.imgur.com/6ZE5zpO.png" width=""/>  
+_(↑ Keine Änderung ist vorhanden.)_
+
+4) Ist keine Änderung vorhanden können wir weiter machen. Falls doch, klicken wir oben auf **_"Pull origin"_** oder auf den gleichnamigen, blauen Knopf auf der rechten Seite. Nun wurde das Projekt synchronisiert und wir können fortfahren.
+
+5) **GitHub Desktop** <img src="https://miro.medium.com/max/600/1*p6exlg2Jrl3pimjPy7R-sA.png" width="25"/> lassen wir einfach geöffnet und starten nun die **Arduino IDE** <img src="https://i.imgur.com/fuFUsjx.png" width="25"/>.
+
+6) Wir kontrollieren, ob hier (rote Markierung) unser Projektname steht.
+<img src="" width=""/>
+
 
 <sup> Created with ❤️ by [@Matewoo](https://github.com/Matewoo) </sup>
