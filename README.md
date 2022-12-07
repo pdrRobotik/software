@@ -119,5 +119,17 @@ _(↑ Keine Änderung ist vorhanden.)_
 6) Wir kontrollieren, ob hier (rote Markierung) unser Projektname steht.
 <img src="" width=""/>
 
+7) Falls ja, kümmern wir uns jetzt ums programmieren. Falls nein, müssen wir ersst die richtige Datei öffnen.
+
+8) Dazu klicken wir oben links auf **_"File"_** und dann auf **_"Open..."_**.
+
+9) Es öffnet sich ein Fenster, bei dem wir die zu öffnende Datei auswählen müssen. Dazu navigieren wir links in den Ordner **_"Dokumente"_** und begeben uns anschlißend in den Ordner **_"GitHub"_**. Hier müssen wir dann nur noch auf den Ordner unseres Projektes gehen und die gleichnamige **_".ino"_** Datei auswählen.
+
+10) Jetzt sollte die richtige Datei geöffnet sein und wir können beginnen. Wir bekommen nun folgendes zu sehen:
+<img src="" width=""/>
+
+
+
+
 
 <sup> Created with ❤️ by [@Matewoo](https://github.com/Matewoo) </sup>
