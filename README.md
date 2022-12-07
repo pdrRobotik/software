@@ -3,8 +3,6 @@
 
 
 ### Inhalt
-- [🤖 pdrRobotik: Einstieg in die Softwareentwicklung!](#-pdrrobotik-einstieg-in-die-softwareentwicklung)
-    - [Inhalt](#inhalt)
   - [🛫 Los geht's!](#-los-gehts)
   - [📖 GitHub Repository erstellen](#-github-repository-erstellen)
   - [💾 Code Datei erstellen und auf GitHub speichern](#-code-datei-erstellen-und-auf-github-speichern)
