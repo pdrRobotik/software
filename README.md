@@ -3,10 +3,12 @@
 
 
 ### Inhalt
-- [🛫 Los geht's!](#-los-gehts)
-- [📖 GitHub Repository erstellen](#-github-repository-erstellen)
-- [💾 Code Datei erstellen und auf GitHub speichern](#-code-datei-erstellen-und-auf-github-speichern)
-- [💻 Programmieren in Arduino C++](#-programmieren-in-arduino-c)
+- [🤖 pdrRobotik: Einstieg in die Softwareentwicklung!](#-pdrrobotik-einstieg-in-die-softwareentwicklung)
+    - [Inhalt](#inhalt)
+  - [🛫 Los geht's!](#-los-gehts)
+  - [📖 GitHub Repository erstellen](#-github-repository-erstellen)
+  - [💾 Code Datei erstellen und auf GitHub speichern](#-code-datei-erstellen-und-auf-github-speichern)
+  - [💻 Programmieren in Arduino C](#-programmieren-in-arduino-c)
 
 
 
@@ -97,7 +99,7 @@ So. Geschafft! Das Repository ist nun auf unserem GitHub veröffentlicht. Jetzt 
 
 
 
-## 💻 Programmieren in Arduino C++
+## 💻 Programmieren in Arduino C
 
 Um unsere Hardware steuern zu können, brauchen wir logischerweise die entsprechende Software. Wenn wir die oberen Schritte schon abgearbeitet haben, können wir damit auch endlich loslegen. Die Grundlegenden Funktionen lernen wir hier.
 
